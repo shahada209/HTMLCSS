@@ -1,0 +1,30 @@
+* 
+
+body { background-color: #32247b9e; 
+} 
+div.container{ 
+margin: 0 auto; 
+width: 90%; 
+} 
+header { 
+width: 100%; 
+height: 100px; 
+background-color: #8ac5de; 
+} 
+nav{ 
+width: 20%; 
+height: 800px; 
+background: #6470ed; 
+float: left; 
+} 
+div.content { 
+width:80%; 
+height:800px; 
+background: #fff; 
+float: right; 
+} 
+footer { 
+width:100%; 
+height: 50px; 
+background: #016060;
+}
